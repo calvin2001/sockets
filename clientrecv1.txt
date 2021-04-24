@@ -1,0 +1,1 @@
+this file is used to store whatever the client downloads, which atm is the send1.txt file
